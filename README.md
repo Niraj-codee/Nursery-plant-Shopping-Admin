@@ -1,25 +1,51 @@
-# How to Run The Project
+# Nursery Plant Shopping Admin
 
-In this project, I used Python library **Tkinter** and others for GUI, and a **Database**.
+Nursery Plant Shopping Admin ek Python-based desktop application hai jo nursery / plant shop ke administrative work ko manage karne ke liye develop kiya gaya hai. Is application ke through plants, sales, bills aur customers ko efficiently handle kiya ja sakta hai.
 
----
+---------------------
+## Image Of Poject
+![FrontPage/LoginPage] (D:\Raj Pro 2024\Nursery Plant\nursery plant shopping1\Image\ScreenShort\Screenshot (98).png)
 
-## Libraries Used
+![MainPage](D:\Raj Pro 2024\Nursery Plant\nursery plant shopping1\Image\ScreenShort\Screenshot (99).png)
 
-```python
-import tkinter as tk
-from tkinter import messagebox
-from datetime import datetime
-import database
-from tkinter import ttk, messagebox
-from PIL import Image, ImageTk
-
-
-## How to import library
-pip install "Library_name" (Only First Time)
-
-## Command For Run The Program/Project
-
+## How to Run
+1. pip install pillow
+2. python main.py
 1. Right Click In The Vs Code.
 2. Find Run Python and click Run Python in Terminal.
 
+## Key Features
+
+1. Admin login & registration (SQLite database)
+2. Plant management (Add, Edit, Delete, View)
+3. Sale price management for plants
+4 .Bill generation & bill history
+5. Customer management
+6. User-friendly Tkinter GUI
+
+
+## Technologies Used
+1. Python
+2. Tkinter (GUI)
+3 .SQLite (Database)
+4. Pillow (PIL) (Image handling)
+
+
+## Database
+Local SQLite (nursery.db) is used to store:
+
+    1. Users
+    2. Plants
+    3 .Sale plants
+    4.Bills
+    5. Customers
+
+## Project Use Case
+This project is suitable for:
+
+    1. Academic projects
+    2. Mini / major project submission
+    3. Small nursery or plant shop management system
+
+Author:
+Raj Prajapati
