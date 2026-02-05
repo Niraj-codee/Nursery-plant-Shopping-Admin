@@ -4,9 +4,9 @@ Nursery Plant Shopping Admin ek Python-based desktop application hai jo nursery 
 
 ---------------------
 ## Image Of Poject
-![FrontPage/LoginPage](Image/ScreenShort/img.png)
+![FrontPage/LoginPage](Image\ScreenShort\img.png)
 
-![MainPage](Image/ScreenShort/image.png)
+![MainPage](Image\ScreenShort\image.png)
 
 ## How to Run
 1. pip install pillow
