@@ -26,7 +26,7 @@ class AdminApp(tk.Tk):
 
         # Load the background image
            # Load the image
-        self.bg_image = Image.open(r"C:\Users\RAJ\OneDrive\Desktop\Raj Pro 2024\Raj Project\nursery plant shopping1\Image1.jpeg")  # Replace with your image path
+        self.bg_image = Image.open(r"D:\Raj Pro 2024\Nursery Plant\nursery plant shopping1\Image1.jpeg")  # Replace with your image path
         
         # Resize the image to fit the canvas
         self.bg_image = self.bg_image.resize((1700, 800), Image.LANCZOS)
@@ -148,7 +148,7 @@ class AdminApp(tk.Tk):
         self.clear_screen()
 
         # Load the background image for the admin menu
-        self.bg_image = Image.open(r"C:\Users\RAJ\OneDrive\Desktop\Raj Pro 2024\Raj Project\nursery plant shopping1\Image2.jpg")  # Replace with your image path
+        self.bg_image = Image.open(r"D:\Raj Pro 2024\Nursery Plant\nursery plant shopping1\Image2.jpg")  # Replace with your image path
         self.bg_photo = ImageTk.PhotoImage(self.bg_image)
 
         # Create a canvas to hold the background image
