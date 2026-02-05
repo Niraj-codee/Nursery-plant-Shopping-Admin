@@ -5,7 +5,7 @@ Nursery Plant Shopping Admin ek Python-based desktop application hai jo nursery 
 ---------------------
 ## Image Of Poject
 
-![FrontPage/LoginPage](Image//ima.png)
+![FrontPage/LoginPage](Image/ima.png)
 
 ![MainPage](Image/image.png)
 
