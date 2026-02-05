@@ -4,9 +4,9 @@ Nursery Plant Shopping Admin ek Python-based desktop application hai jo nursery 
 
 ---------------------
 ## Image Of Poject
-![FrontPage/LoginPage] (D:\Raj Pro 2024\Nursery Plant\nursery plant shopping1\Image\ScreenShort\Screenshot (98).png)
+![FrontPage/LoginPage] (Image/ScreenShort/Screenshot (98).png)
 
-![MainPage](D:\Raj Pro 2024\Nursery Plant\nursery plant shopping1\Image\ScreenShort\Screenshot (99).png)
+![MainPage](Image/ScreenShort/Screenshot (99).png)
 
 ## How to Run
 1. pip install pillow
@@ -37,7 +37,7 @@ Local SQLite (nursery.db) is used to store:
     1. Users
     2. Plants
     3 .Sale plants
-    4.Bills
+    4. Bills
     5. Customers
 
 ## Project Use Case
